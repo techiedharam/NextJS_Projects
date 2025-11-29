@@ -139,10 +139,10 @@ export default function Contact() {
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold text-gray-900">Phone Numbers</h3>
                   <p className="text-gray-600 mt-1">
-                    +91 88828 36312 (Primary)
+                    +91 96257 72696 (Primary)
                   </p>
                   <p className="text-gray-600 mt-1">
-                    +91 96257 72696 (Secondary)
+                    +91 88828 36312 (Secondary)
                   </p>
                 </div>
               </div>

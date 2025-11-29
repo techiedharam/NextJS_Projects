@@ -123,20 +123,20 @@ const Navbar = () => {
 
             <div className="flex space-x-4 pt-4">
               <a 
-                href="tel:+918882836312" 
+                href="tel:+919625772696" 
                 className="flex items-center justify-center w-12 h-12 rounded-full bg-green-500 text-white hover:bg-green-600 transition duration-300"
                 aria-label="Call us"
               >
-                <FaPhoneAlt size={20} />
+                <FaPhoneAlt size={16} />
               </a>
               <a 
-                href="https://wa.me/918882836312" 
+                href="https://wa.me/919625772696" 
                 className="flex items-center justify-center w-12 h-12 rounded-full bg-green-500 text-white hover:bg-green-600 transition duration-300"
                 target="_blank" 
                 rel="noopener noreferrer"
                 aria-label="WhatsApp us"
               >
-                <FaWhatsapp size={20} />
+                <FaWhatsapp size={16} />
               </a>
             </div>
 
