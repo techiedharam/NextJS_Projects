@@ -127,7 +127,7 @@ const Navbar = () => {
                 className="flex items-center justify-center w-12 h-12 rounded-full bg-green-500 text-white hover:bg-green-600 transition duration-300"
                 aria-label="Call us"
               >
-                <FaPhoneAlt size={24} />
+                <FaPhoneAlt size={20} />
               </a>
               <a 
                 href="https://wa.me/918882836312" 
@@ -136,7 +136,7 @@ const Navbar = () => {
                 rel="noopener noreferrer"
                 aria-label="WhatsApp us"
               >
-                <FaWhatsapp size={24} />
+                <FaWhatsapp size={20} />
               </a>
             </div>
 

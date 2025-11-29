@@ -188,7 +188,7 @@ export default function Home() {
         </div>
         
         {/* Content Overlay */}
-        <div className="container mx-auto px-4 relative z-10 flex items-center justify-center min-h-[80vh] pt-40">
+        <div className="container mx-auto px-4 relative z-10 flex items-center justify-center min-h-[80vh] pt-4">
           <div className="text-center max-w-3xl px-4">
             <h1 className="hero-title text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-4 animate-fade-in">
               Transforming Spaces with Premium <span className="text-yellow-400">Aluminium & Glass</span> Solutions

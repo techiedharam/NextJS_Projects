@@ -27,7 +27,7 @@ export default function RootLayout({
             className="flex items-center justify-center w-20 h-20 rounded-full bg-green-500 text-white hover:bg-green-600 transition duration-300 shadow-lg"
             aria-label="Call us"
           >
-            <FaPhoneAlt size={48} />
+            <FaPhoneAlt size={36} />
           </a>
           <a 
             href="https://wa.me/918882836312" 
@@ -36,7 +36,7 @@ export default function RootLayout({
             rel="noopener noreferrer"
             aria-label="WhatsApp us"
           >
-            <FaWhatsapp size={48} />
+            <FaWhatsapp size={36} />
           </a>
         </div>
       </body>
